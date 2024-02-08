@@ -57,4 +57,3 @@ async function getAssistantResponse(conversation) {
 }
 
 module.exports = { getAssistantResponse };
-
