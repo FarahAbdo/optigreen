@@ -1,6 +1,6 @@
 
 const axios = require('axios');
-const { API_KEY } = process.env; // Set your Azure OpenAI API key
+const { API_KEY } = process.env; // Set your API key
 
 const API_URL = '..'; // Adjust the URL as needed
 
